@@ -22,7 +22,7 @@ me.addDepartment("Software Engineering")
  
 ### My Github Stats
 <a href="https://github.com/Avishak-2017831010/Avishak-2017831010">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishak-2017831010&&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishak-2017831010&&show_icons=true&theme=gotham" alt="Avishak's GitHub Stats" />
 </a>
 <a href="https://github.com/Avishak-2017831010/Avishak-2017831010">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avishak-2017831010&show_icons=true&theme=gotham" alt="Avishak's GitHub Stats">
