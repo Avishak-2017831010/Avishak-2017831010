@@ -38,7 +38,16 @@ me.addDepartment("Software Engineering")
   
 <br/>
 
-
+<p>
+    <a href="https://www.facebook.com/avishak.aurgho.cb">
+        <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/facebook.svg" height=40px>
+    <a/>
+        <a href="https://www.linkedin.com/in/avishak-chakroborty-03aa5b1b7/">
+        <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" height=40px>
+    <a/>
+    
+    
+<p/>
 
 
 
