@@ -1,4 +1,4 @@
-![Avishak-2017831010](https://i.ibb.co/5LZww7j/Avishak.gif "Avishak-2017831010")
+![clonedSemicolon](https://i.ibb.co/5LZww7j/Avishak.gif "clonedSemicolon")
 ```
 Javascript
 class person{
@@ -21,18 +21,18 @@ me.addDepartment("Software Engineering")
 ```
  
 ### My Github Stats
-<a href="https://github.com/Avishak-2017831010/Avishak-2017831010">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishak-2017831010&&show_icons=true&theme=gotham" alt="Avishak's GitHub Stats" />
+<a href="https://github.com/clonedSemicolon/clonedSemicolon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clonedSemicolon&&show_icons=true&theme=gotham" alt="Avishak's GitHub Stats" />
 </a>
-<a href="https://github.com/Avishak-2017831010/Avishak-2017831010">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avishak-2017831010&show_icons=true&theme=gotham" alt="Avishak's GitHub Stats">
+<a href="https://github.com/clonedSemicolon/clonedSemicolon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=clonedSemicolon&show_icons=true&theme=gotham" alt="Avishak's GitHub Stats">
 </a>
-<a href="https://github.com/Avishak-2017831010/Avishak-2017831010">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Avishak-2017831010&show_icons=true&theme=gotham" alt="Avishak's GitHub Stats">
+<a href="https://github.com/clonedSemicolon/clonedSemicolon">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clonedSemicolon&show_icons=true&theme=gotham" alt="Avishak's GitHub Stats">
 </a>
 
-<a href="https://github.com/Avishak-2017831010/Avishak-2017831010">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Avishak-2017831010" alt="Avishak's GitHub Stats">
+<a href="https://github.com/clonedSemicolon/clonedSemicolon">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=clonedSemicolon" alt="Avishak's GitHub Stats">
 <a/>
 <img align='left' src="https://media.giphy.com/media/11kUypQPRKlIkw/giphy.gif" width="150"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   
@@ -53,4 +53,3 @@ me.addDepartment("Software Engineering")
 
 <br/>
 <em><b>You can also follow me on Github</b> :)</em>
-
