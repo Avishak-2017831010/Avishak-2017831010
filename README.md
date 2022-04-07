@@ -1,7 +1,6 @@
-<div>
-<!--     ![clonedSemicolon](https://media.giphy.com/media/jDJsUJ9f5JuBPs54QG/giphy.gif "clonedSemicolon") -->
-    <img src = "https://media.giphy.com/media/8wGjjRxyuG9uhpF5Ow/giphy.gif" />
-</div>
+<h1 align="center">
+  <img src="https://github.com/clonedSemicolon/clonedSemicolon/blob/main/Avishak%20Chakroborty.gif" alt="Avishak Chakroborty" />
+</h1>
 
 ```
 Javascript
