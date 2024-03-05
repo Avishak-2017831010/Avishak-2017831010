@@ -36,6 +36,12 @@ me.addDepartment("Software Engineering")
   
 </td>
 
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=clonedSemicolon&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+
 </tr>
 </table>
 
