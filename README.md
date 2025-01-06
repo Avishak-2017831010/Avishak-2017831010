@@ -1,27 +1,8 @@
+## <p align="center"> I'm Avishak , <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&width=200&vCenter=true&height=18&color=C80D15FF&lines=a+Explorer;a+Learner;a+Researcher;a+Developer"></p>
+
 <h1 align="center">
-  <img src="https://github.com/clonedSemicolon/clonedSemicolon/blob/main/Avishak%20Chakroborty.gif" alt="Avishak Chakroborty" />
+  <img src="https://github.com/clonedSemicolon/clonedSemicolon/blob/main/Avishak%20Chakroborty.gif" alt="Avishak Chakroborty" height = "800" />
 </h1>
-
-```
-Javascript
-class person{
-    constructor(name,place,institute,status){
-        this.name=name;
-        this.place=place;
-        this.institute=institute
-        this.status=status;
-    }
-
-    addDepartment(dept){
-        this.dept=dept;
-    }
-}
-
-const me=new person("Avishak Chakroborty","Sylhet","SUST","student")
-me.addDepartment("Software Engineering")
-
-
-```
  
 ### My Github Stats
 <table border="0" align="center">
