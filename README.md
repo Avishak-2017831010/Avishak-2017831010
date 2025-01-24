@@ -1,4 +1,4 @@
-## <p align="center"> I'm Avishak , <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&width=200&vCenter=true&height=18&color=C80D15FF&lines=a+Explorer;a+Learner;a+Researcher;a+Developer"></p>
+## <p align="center"> I'm Avishak , <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&width=200&vCenter=true&height=18&color=C80D15FF&lines=an+Explorer;a+Learner;a+Researcher;a+Developer"></p>
 
 <h1 align="center">
   <img src="https://github.com/clonedSemicolon/clonedSemicolon/blob/main/Avishak%20Chakroborty.gif" alt="Avishak Chakroborty" height = "800" />
